@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace HackerRank
 {
-    class Solution
+    class GemStones
     {
-        static void Main(String[] args)
+        public static void entry(String[] args)
         {
             /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
             int iter, count = 0;
