@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GemStones.cs" />
+    <Compile Include="HalloweenParty.cs" />
     <Compile Include="LoveLetter.cs" />
     <Compile Include="Program.cs">
       <SubType>Code</SubType>
