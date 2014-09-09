@@ -56,9 +56,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CutSticks.cs" />
     <Compile Include="GemStones.cs" />
     <Compile Include="HalloweenParty.cs" />
     <Compile Include="LoveLetter.cs" />
+    <Compile Include="MaxXOR.cs" />
     <Compile Include="Program.cs">
       <SubType>Code</SubType>
     </Compile>
