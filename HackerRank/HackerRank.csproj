@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CutSticks.cs" />
+    <Compile Include="GameOfThrones1.cs" />
     <Compile Include="GemStones.cs" />
     <Compile Include="HalloweenParty.cs" />
     <Compile Include="LoveLetter.cs" />

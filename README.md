@@ -12,3 +12,6 @@ You are welcome to let me know if you can optimize my code even better.
 - Halloween Party  
 - Cut the Sticks  
 - Maximizing XOR  
+- Game of Thrones - I  
+- Chocolate Feast  
+
